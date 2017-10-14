@@ -1,5 +1,5 @@
 # Roll-a-Ball
-A rolling ball game I made for an assignment of my University VR course.
+A rolling ball game I made for an assignment of my University VR course. The game was made with Unity 2017.1.1f1.
 
 ### Game Rule
 Roll your pokeball to catch(collide with) pokemons(cubes). Meanwhile the pokemons would dodge and attack you. 
